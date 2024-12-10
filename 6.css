@@ -1,0 +1,15 @@
+.q1 {
+    box-shadow: inset 0px 0px 5px 2px purple;
+width: 200px;
+height: 50px;
+}
+.q2 {
+    box-shadow: inset 0px 0px 10px 5px purple;
+    width: 200px;
+height: 50px;
+}
+.q3 {
+    box-shadow: inset 0px 0px 15px 8px purple;
+    width: 200px;
+height: 50px;
+}
